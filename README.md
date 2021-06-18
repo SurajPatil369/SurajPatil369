@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SurajPatil369
-- 👀 I’m interested in writing real world applications 
-- 🌱 I’m currently learning back end development 
-- 💞️ I’m looking to collaborate on fronend and backend development.
+- 👀 I’m interested in writing s using MERN stack.
+- 💞️ I’m currently looking for collaborating with tech startUps as an intern.
 - 📫 How to reach me? patilsurajh@gmail.com,https://www.linkedin.com/in/suraj-patil-1b4950153/
 
 <!---
