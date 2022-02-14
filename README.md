@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SurajPatil369
-- 👀 I’m interested in writing real world apps using React.
+- 👀 I’m interested in writing real world apps using MERN Stack.
 - 💞️ I’m currently looking for collaborating with tech startUps as an intern.
 - 📫 How to reach me? patilsurajh@gmail.com,https://www.linkedin.com/in/suraj-patil-1b4950153/
 
